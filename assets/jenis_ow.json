@@ -1,0 +1,22 @@
+[
+	{
+		"id_jenis":"1",
+		"jenis":"Marina",
+		"wisatawan":"1509872"
+	},
+	{
+		"id_jenis":"2",
+		"jenis":"Tirta",
+		"wisatawan":"928753"
+	},
+	{
+		"id_jenis":"3",
+		"jenis":"Sejarah",
+		"wisatawan":"763598"
+	},
+	{
+		"id_jenis":"4",
+		"jenis":"Suaka Alam",
+		"wisatawan":"1209782"
+	}
+]
